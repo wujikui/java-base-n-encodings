@@ -22,10 +22,10 @@ Installation
 - Download the [package][3] (**recommend**) and depends it manually.
 
     ```
-    java-base-n-encodings-1.0.pom
-    java-base-n-encodings-1.0.jar
-    java-base-n-encodings-1.0-javadoc.jar
-    java-base-n-encodings-1.0-sources.jar
+    java-base-n-encodings-1.0.0.pom
+    java-base-n-encodings-1.0.0.jar
+    java-base-n-encodings-1.0.0-javadoc.jar
+    java-base-n-encodings-1.0.0-sources.jar
     ```
 
 - Using [Maven][4] (not recommend).
