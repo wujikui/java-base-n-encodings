@@ -56,7 +56,7 @@ Basic Usage
 1. Adds a dependency of the jar file in you project.
 2. Imports the wallf.basenencodings **package**.
 
-        import wallf.basenencodings;
+        import wallf.basenencodings.BaseEncoding;
 
 3. Gets **instance** of encodings.
 
