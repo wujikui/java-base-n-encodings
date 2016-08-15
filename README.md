@@ -5,6 +5,8 @@ java-base-n-encodings is a general base16, base32, base64 encodings library for 
 
 > It's a migration project of the [BaseNEncodings.Net][2].
 
+> The repository had been transfered from [wallf][10].
+
 Features
 --------
 - Represents a **general** Base-N data encoding as an abstract class.
@@ -82,10 +84,11 @@ Documentation, Simple and Benchmark
 
 
   [1]: http://tools.ietf.org/html/rfc4648
-  [2]: https://github.com/wallf/BaseNEncodings.Net
-  [3]: https://github.com/wallf/java-base-n-encodings/releases/download/v1.0.0/java-base-n-encodings-1.0.0.zip
+  [2]: https://github.com/wujikui/BaseNEncodings.Net
+  [3]: https://github.com/wujikui/java-base-n-encodings/releases/download/v1.0.0/java-base-n-encodings-1.0.0.zip
   [4]: http://maven.apache.org/
   [5]: http://maven.oschina.net/
   [6]: http://search.maven.org/
-  [7]: https://github.com/wallf/java-base-n-encodings/tree/master/simple
-  [8]: https://github.com/wallf/java-base-n-encodings/tree/master/benchmark
+  [7]: https://github.com/wujikui/java-base-n-encodings/tree/master/simple
+  [8]: https://github.com/wujikui/java-base-n-encodings/tree/master/benchmark
+  [10]: https://github.com/wallf/java-base-n-encodings
